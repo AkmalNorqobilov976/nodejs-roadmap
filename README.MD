@@ -102,7 +102,11 @@
     - Call Stack & Stack Trace
     - Debuggerdan foydalanish
 6. Asinxron dasturlash
-    - Asinxron kod yozish
+    - callback
+    - setTimeOut / setInterval / setImmediate
+    - Promislar
+    - async / await
+    - process.nextTick
 7. OS va asosiy tushunchalar
     - Terminaldan foydalanish
     - POSIX asoslari
@@ -120,8 +124,7 @@
 12. nodemon
 13. Git
 14. Github
-15. Template Engines
-    - marko
+15. Template Engine
 
 ## 5-6-oylar
 
