@@ -98,9 +98,9 @@
 2. Classlar
 3. Sodda algoritmlar
 
-## 3-4-oylar
+## Node.js va Server (2 oy)
 
-### Node.js va Server
+### 3-4-oylar
 
 1. Internet
     - Internet qanday ishlaydi?
