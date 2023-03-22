@@ -1,6 +1,6 @@
 # Kurs rejasi
 
-## 1-oy
+## 1-2-oylar
 
 ### JavaScript
 
@@ -42,7 +42,7 @@
 8. Control Flow
     - if ... else
     - switch
-    - Exception Handling
+    - Istisnoni ushlash
 9. Sikl va takrorlanishlar
     - for
     - while
@@ -66,54 +66,86 @@
     - arrow function ichida ishlatish
     - Function Borrowing
     - Explicit Binding
+13. Classlar
 
-## 2-oy
+## 3-4-oylar
 
-### Node.js
+### Node.js va Server
 
-1. Kirish
+1. Internet
+    - Internet qanday ishlaydi?
+    - HTTP nima?
+    - Brauzerlar va ular qanday ishlaydi?
+    - DNS va u qanday ishlaydi?
+    - Domen nomi nima?
+    - Hosting nima?
+2. Kirish
     - Node.js nima?
     - Nega aynan Node.js
     - Node.js tarixi
     - Node.js vs Brauzer
-    - Node.js kodni ishlatish
-2. Modullar
+    - Node.js kodni ishga tushirish
+3. Modullar
     - CommonJS / ESM
     - Maxsus modullar yaratish
     - global kalit so'zi
-3. npm
+4. npm
     - Paketlarni o'rnatish
     - Paketlarni yangilash
     - O'rnatilgan paketlarni ishlatish
     - Skriptlarni ishlatish
     - npx
-4. Xatolikni ushlash
-5. Asinxron dasturlash
-6. OS va asosiy tushunchalar
-7. Fayllar bilan ishlash
-8. Command Line Apps
-9. Restful API haqida o’rganamiz
-10. Restful API bilan ishlash
-11. nodemon
-12. Template Engine
+5. Xatolikni ushlash
+    - Tugallanmagan istisnolar
+    - Xatolik turlari
+    - Asinxron xatoliklarni ushlash
+    - Call Stack & Stack Trace
+    - Debuggerdan foydalanish
+6. Asinxron dasturlash
+    - Asinxron kod yozish
+7. OS va asosiy tushunchalar
+    - Terminaldan foydalanish
+    - POSIX asoslari
+8. Fayllar bilan ishlash
+    - __dirname
+    - __filename
+9. Command Line Apps
+    - Command Line Args
+10. Restful API haqida o’rganamiz
+    - REST
+    - JSON APIs
+11. Restful API bilan ishlash
+    - HTTP server (Express.js)
+    - Tashqi APIga so'rov yuborish
+12. nodemon
+13. Git
+14. Github
+15. Template Engines
+    - marko
 
-## 3-oy
+## 5-6-oylar
 
-### Ma'lumotlar bazasi
+### Ma'lumotlar bazasi va amaliyot
 
 1. PostgreSQL
-2. PostgreSQL (davomi)
-3. PostgreSQL (davomi)
-4. PostgreSQL bilan ishlash. CRUD amallar.
-5. Avtorizatsiya / Autentifikatsiya
-6. Git
-7. Github
-8. Keshlash
-9. Web xavfsizlik
-10. Deployment
-11. Dasturni doimiy ishlatish
-12. Built-in modullar
-
-## 4-oy
-
-### Amaliyot: Kitoblar sayti
+2. ORM (Prisma)
+3. PostgreSQL bilan CRUD amallar
+4. MongoDB
+5. MongoDB bilan CRUD amallar
+6. Avtorizatsiya / Autentifikatsiya
+    - jsonwebtoken
+    - Passport.js
+7. Keshlash
+    - Client-Side
+    - Server-Side
+8. Web xavfsizlik
+    - Hash algoritmlar
+    - HTTPS
+    - SSL/TLS
+    - CORS
+    - CSP
+    - OWASP Risks
+    - Server Security
+9. Deployment
+10. Dasturni doimiy ishlatish
+11. Built-in modullar
