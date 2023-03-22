@@ -146,6 +146,4 @@
     - CSP
     - OWASP Risks
     - Server Security
-9. Deployment
-10. Dasturni doimiy ishlatish
-11. Built-in modullar
+9. Built-in modullar
