@@ -1,72 +1,102 @@
 # Kurs rejasi
 
-## 1-2-oylar
+## JavaScript (2 oy)
 
-### JavaScript
+### 1-oy
+
+#### 1-hafta
 
 1. Kirish
-    - JavaScript o'zi nima?
+    <!-- - JavaScript o'zi nima?
     - JavaSript tarixi
     - JavaScript versiyalari
-    - JavaScriptni ishga tushirish
-2. O’zgaruvchilar haqida hammasi
-    - O'zgaruvchilarni e'lon qilish
-    - Hoisting
-    - O'zgaruvchi nomlash qoidalari
-    - O'zgaruvchi ko'lami
-3. Ma’lumot turlari
-    - Primitiv turlar
-    - Object
-    - typeof operatori
-4. Type Casting
-    - Type Conversion vs Coersion
+    - JavaScriptni ishga tushirish -->
+2. O’zgaruvchilar
+    <!-- - O'zgaruvchilarni e'lon qilish
+    - O'zgaruvchi nomlash qoidalari -->
+3. Primitiv turlar / typeof operatori
+
+#### 2-hafta
+
+1. Number
+2. String
+3. Object
+
+#### 3-hafta
+
+1. Type Casting
+    <!-- - Type Conversion vs Coersion
     - Explicit Type Casting
-    - Implicit Type Casting
-5. Ma’lumot tuzilmalari
-    - Array
-    - JSON
-    - Kalitli to'plamlar
-6. Ifodalar va operatorlar
-    - Tayinlash operatorlari
+    - Implicit Type Casting -->
+2. Array
+3. Sodda ma'lumot tuzilmalari
+
+#### 4-hafta
+
+1. JSON
+2. Kalitli to'plamlar
+3. Ifodalar va operatorlar
+    <!-- - Tayinlash operatorlari
     - Taqqoslash operatorlari
     - Arifmetik operatorlar
     - Mantiqiy operatorlar
     - String operatorlari
     - Ternary operatori
     - Vergul operatori
-    - Unary operators
-7. Tenglikka tekshirish
-    - ==
+    - Unary operators -->
+
+### 2-oy
+
+#### 5-hafta
+
+1. Tenglikka tekshirish
+    <!-- - ==
     - ===
-    - Object.is
-8. Control Flow
-    - if ... else
+    - Object.is -->
+2. Control Flow
+    <!-- - if ... else
     - switch
-    - Istisnoni ushlash
-9. Sikl va takrorlanishlar
-    - for
+    - Istisnoni ushlash -->
+3. Sikl va takrorlanishlar
+    <!-- - for
     - while
     - do ... while
     - for ... in
     - for ... of
-    - break / continue
-10. Funksiyalar
-    - Funksiya parametrlari
+    - break / continue -->
+
+#### 6-hafta
+
+1. Funksiyalar
+    <!-- - Funksiya parametrlari
     - Arrow Functions
     - Built-in funksiyalar
     - IIFEs
     - arguments obyekti
     - Scope & Function Stack
-11. strict mode
-12. this kalit so'zidan foydalanish
-    - funksiya ichida ishlatish
+    - Hoisting
+    - O'zgaruvchi ko'lami -->
+2. Math
+3. strict mode
+
+#### 7-hafta
+
+1. this kalit so'zidan foydalanish
+    <!-- - funksiya ichida ishlatish
     - metod ichida ishlatish
     - o'zini global skopda ishlatish
     - event handler ichida ishlatish
     - arrow function ichida ishlatish
     - Function Borrowing
-    - Explicit Binding
-13. Classlar
+    - Explicit Binding -->
+2. Regular expressions
+3. Funksional dasturlash
+
+#### 8-hafta
+
+1. Obyektga yo'naltirilgan dasturlash
+2. Classlar
+3. Sodda algoritmlar
 
 ## 3-4-oylar
 
@@ -79,7 +109,7 @@
     - DNS va u qanday ishlaydi?
     - Domen nomi nima?
     - Hosting nima?
-2. Kirish
+2. Node.js'ga kirish
     - Node.js nima?
     - Nega aynan Node.js
     - Node.js tarixi
