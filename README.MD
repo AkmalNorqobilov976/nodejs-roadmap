@@ -1,182 +1,109 @@
 # Kurs rejasi
 
-## JavaScript (2 oy)
+## JavaScript - 2 oy
 
 ### 1-oy
 
-#### 1-hafta
-
-1. Kirish
-    <!-- - JavaScript o'zi nima?
-    - JavaSript tarixi
-    - JavaScript versiyalari
-    - JavaScriptni ishga tushirish -->
+1. JavaScriptga kirish
 2. O’zgaruvchilar
-    <!-- - O'zgaruvchilarni e'lon qilish
-    - O'zgaruvchi nomlash qoidalari -->
 3. Primitiv turlar / typeof operatori
 
-#### 2-hafta
+---
 
 1. Number
 2. String
 3. Object
 
-#### 3-hafta
+---
 
 1. Type Casting
-    <!-- - Type Conversion vs Coersion
-    - Explicit Type Casting
-    - Implicit Type Casting -->
 2. Array
-3. Sodda ma'lumot tuzilmalari
+3. Array metodlari
 
-#### 4-hafta
+---
 
-1. JSON
-2. Kalitli to'plamlar
-3. Ifodalar va operatorlar
-    <!-- - Tayinlash operatorlari
-    - Taqqoslash operatorlari
-    - Arifmetik operatorlar
-    - Mantiqiy operatorlar
-    - String operatorlari
-    - Ternary operatori
-    - Vergul operatori
-    - Unary operators -->
+1. Sodda ma'lumot tuzilmalari
+2. JSON
+3. Kalitli to'plamlar
+
+---
 
 ### 2-oy
 
-#### 5-hafta
+1. Ifodalar va operatorlar
+2. Tenglikka tekshirish
+3. Control Flow
 
-1. Tenglikka tekshirish
-    <!-- - ==
-    - ===
-    - Object.is -->
-2. Control Flow
-    <!-- - if ... else
-    - switch
-    - Istisnoni ushlash -->
-3. Sikl va takrorlanishlar
-    <!-- - for
-    - while
-    - do ... while
-    - for ... in
-    - for ... of
-    - break / continue -->
+---
 
-#### 6-hafta
+1. Sikl va takrorlanishlar
+2. Funksiyalar
+3. Math
 
-1. Funksiyalar
-    <!-- - Funksiya parametrlari
-    - Arrow Functions
-    - Built-in funksiyalar
-    - IIFEs
-    - arguments obyekti
-    - Scope & Function Stack
-    - Hoisting
-    - O'zgaruvchi ko'lami -->
-2. Math
-3. strict mode
+---
 
-#### 7-hafta
+1. strict mode
+2. this kalit so'zidan foydalanish
+3. Regular expressions
 
-1. this kalit so'zidan foydalanish
-    <!-- - funksiya ichida ishlatish
-    - metod ichida ishlatish
-    - o'zini global skopda ishlatish
-    - event handler ichida ishlatish
-    - arrow function ichida ishlatish
-    - Function Borrowing
-    - Explicit Binding -->
-2. Regular expressions
-3. Funksional dasturlash
+---
 
-#### 8-hafta
+1. Funksional dasturlash
+2. Obyektga yo'naltirilgan dasturlash
+3. Classlar
 
-1. Obyektga yo'naltirilgan dasturlash
-2. Classlar
-3. Sodda algoritmlar
+---
 
-## Node.js va Server (2 oy)
+## Node.js - 2 oy
 
-### 3-4-oylar
+### 3-oy
 
 1. Internet
-    - Internet qanday ishlaydi?
-    - HTTP nima?
-    - Brauzerlar va ular qanday ishlaydi?
-    - DNS va u qanday ishlaydi?
-    - Domen nomi nima?
-    - Hosting nima?
 2. Node.js'ga kirish
-    - Node.js nima?
-    - Nega aynan Node.js
-    - Node.js tarixi
-    - Node.js vs Brauzer
-    - Node.js kodni ishga tushirish
 3. Modullar
-    - CommonJS / ESM
-    - Maxsus modullar yaratish
-    - global kalit so'zi
-4. npm
-    - Paketlarni o'rnatish
-    - Paketlarni yangilash
-    - O'rnatilgan paketlarni ishlatish
-    - Skriptlarni ishlatish
-    - npx
-5. Xatolikni ushlash
-    - Tugallanmagan istisnolar
-    - Xatolik turlari
-    - Asinxron xatoliklarni ushlash
-    - Call Stack & Stack Trace
-    - Debuggerdan foydalanish
-6. Asinxron dasturlash
-    - callback
-    - setTimeOut / setInterval / setImmediate
-    - Promislar
-    - async / await
-    - process.nextTick
-7. OS va asosiy tushunchalar
-    - Terminaldan foydalanish
-    - POSIX asoslari
-8. Fayllar bilan ishlash
-    - __dirname
-    - __filename
-9. Command Line Apps
-    - Command Line Args
-10. Restful API haqida o’rganamiz
-    - REST
-    - JSON APIs
-11. Restful API bilan ishlash
-    - HTTP server (Express.js)
-    - Tashqi APIga so'rov yuborish
-12. nodemon
-13. Git
-14. Github
-15. Template Engine
 
-## 5-6-oylar
+---
 
-### Ma'lumotlar bazasi va amaliyot
+1. npm
+2. Xatolikni ushlash
+3. Asinxron dasturlash
 
-1. PostgreSQL
-2. ORM (Prisma)
-3. PostgreSQL bilan CRUD amallar
-4. MongoDB
-5. MongoDB bilan CRUD amallar
-6. Avtorizatsiya / Autentifikatsiya
-    - jsonwebtoken
-    - Passport.js
-7. Keshlash
-    - Client-Side
-    - Server-Side
-8. Web xavfsizlik
-    - Hash algoritmlar
-    - HTTPS
-    - SSL/TLS
-    - CORS
-    - CSP
-    - OWASP Risks
-    - Server Security
-9. Built-in modullar
+---
+
+1. Promislar
+2. async await
+3. OS va asosiy tushunchalar
+
+---
+
+1. Fayllar bilan ishlash
+2. Command Line Apps
+3. MongoDB
+
+### 4-oy
+
+1. Express.js
+2. nodemon
+3. Mongoose
+
+---
+
+1. Routes & Controllers
+2. Template Engine
+3. Forms
+
+---
+
+1. Avtorizatsiya / Autentifikatsiya
+2. Restful API haqida o’rganamiz
+3. Restful API bilan ishlash
+
+---
+
+1. Git
+2. Github
+3. Deployment
+
+---
+
+Amaliyot - 2-oy
