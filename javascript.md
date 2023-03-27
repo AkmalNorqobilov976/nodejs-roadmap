@@ -4,7 +4,7 @@
 | - | - | - |
 | O'zgaruvchilar        | [Ochish](./materials/1.md) | [Ochish](./homeworks/1.md) |
 | Arifmetik operatorlar | [Ochish](./materials/1.md) | [Ochish](./homeworks/2.md) |
-| Satr operatorlari     | [Ochish](./materials/1.md) | [Ochish](./homeworks/3.md) |
+| Satr                  | [Ochish](./materials/1.md) | [Ochish](./homeworks/3.md) |
 | Array                 | [Ochish](./materials/1.md) | [Ochish](./homeworks/4.md) |
 | Funksiyalar           | [Ochish](./materials/1.md) | [Ochish](./homeworks/5.md) |
 | Funksiya parametrlari | [Ochish](./materials/1.md) | [Ochish](./homeworks/6.md) |

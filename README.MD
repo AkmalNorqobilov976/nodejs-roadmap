@@ -1,4 +1,4 @@
-# Kurs rejasi
+<!-- # Kurs rejasi
 
 ## JavaScript - 2 oy
 
@@ -106,4 +106,4 @@
 
 ---
 
-Amaliyot - 2-oy
+Amaliyot - 2-oy -->
