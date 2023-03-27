@@ -15,7 +15,7 @@
 | For sikli             | [Ochish](./materials/1.md) | [Ochish](./homeworks/11.md) |
 | Do ... while sikli    | [Ochish](./materials/1.md) | [Ochish](./homeworks/12.md) |
 
-| 1-oy                    | Material                   | Uyga vazifa |
+| 2-oy                    | Material                   | Uyga vazifa |
 | -                          | -                          | - |
 | Rekursiya                  | [Ochish](./materials/1.md) | [Ochish](./homeworks/13.md) |
 | Arrow funksiyalar          | [Ochish](./materials/1.md) | [Ochish](./homeworks/14.md) |
