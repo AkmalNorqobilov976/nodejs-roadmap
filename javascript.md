@@ -4,10 +4,10 @@
 | - | - |
 | O'zgaruvchilar        |  [Ochish](./homeworks/1.md) |
 | Arifmetik operatorlar |  [Ochish](./homeworks/2.md) |
-| Satr                  |  [Ochish](./homeworks/3.md) |
+| String                |  [Ochish](./homeworks/3.md) |
 | Array                 |  [Ochish](./homeworks/4.md) |
-| Funksiyalar           |  [Ochish](./homeworks/5.md) |
-| Funksiya parametrlari |  [Ochish](./homeworks/6.md) |
+| Array metodlari       |  [Ochish](./homeworks/5.md) |
+| Funskiyalar           |  [Ochish](./homeworks/6.md) |
 | Scope                 |  [Ochish](./homeworks/7.md) |
 | Shartli ifodalar      |  [Ochish](./homeworks/8.md) |
 | Object                |  [Ochish](./homeworks/9.md) |
